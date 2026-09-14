@@ -63,22 +63,22 @@ export const grammars = [
     aliases: [
       'ahk1',
     ],
-    byteSize: 29771,
+    byteSize: 29779,
     categories: [
       'scripting',
     ],
     displayName: 'AutoHotkey',
     funding: [
     ],
-    hash: 'gTAG1JVqWuRuW8HSjWlm7I6QwEMUuJCkI7W-IWAXwxg',
-    lastUpdate: '2023-07-27T01:11:41Z',
+    hash: 'Vc3KKl1ITjvidvjqWopiq70xNKjW1CCuOXlRRZnKaag',
+    lastUpdate: '2026-09-13T20:16:20Z',
     license: 'MIT',
     licenseUrl: 'https://raw.githubusercontent.com/mark-wiemer/ahkpp/main/license.md',
     name: 'ahk',
     scopeName: 'source.ahk',
-    sha: '14855ed6635fd7a7db55c9d219496832d1495a76',
-    source: 'https://github.com/mark-wiemer/ahkpp/blob/14855ed6635fd7a7db55c9d219496832d1495a76/language/ahk.tmLanguage.yaml',
-    sourceApi: 'https://api.github.com/repos/mark-wiemer/ahkpp/contents/language/ahk.tmLanguage.yaml?ref=14855ed6635fd7a7db55c9d219496832d1495a76',
+    sha: '63c1fd4d675e9ea98f60083786afe94505bdd57b',
+    source: 'https://github.com/mark-wiemer/ahkpp/blob/63c1fd4d675e9ea98f60083786afe94505bdd57b/language/ahk.tmLanguage.yaml',
+    sourceApi: 'https://api.github.com/repos/mark-wiemer/ahkpp/contents/language/ahk.tmLanguage.yaml?ref=63c1fd4d675e9ea98f60083786afe94505bdd57b',
   },
   {
     byteSize: 43703,
