@@ -1216,22 +1216,22 @@ export const grammars = [
     aliases: [
       'elisp',
     ],
-    byteSize: 788799,
+    byteSize: 788809,
     categories: [
       'lisp',
     ],
     displayName: 'Emacs Lisp',
     funding: [
     ],
-    hash: 'fxpW1Ko5-3SGTSlZwOJfWVGosVJ04tpQcME2rYYrHr8',
-    lastUpdate: '2026-05-30T15:22:53Z',
+    hash: 'scdMa5XjHXmy5SvXz3lXcZNZTn1YneZg-vScU37IH_0',
+    lastUpdate: '2026-09-21T16:24:43Z',
     license: 'ISC',
     licenseUrl: 'https://raw.githubusercontent.com/Alhadis/language-emacs-lisp/master/LICENSE.md',
     name: 'emacs-lisp',
     scopeName: 'source.emacs.lisp',
-    sha: '5f8504f97be6abe3da62060f6f57ce2ae1ceb12b',
-    source: 'https://github.com/Alhadis/language-emacs-lisp/blob/5f8504f97be6abe3da62060f6f57ce2ae1ceb12b/grammars/emacs-lisp.cson',
-    sourceApi: 'https://api.github.com/repos/Alhadis/language-emacs-lisp/contents/grammars/emacs-lisp.cson?ref=5f8504f97be6abe3da62060f6f57ce2ae1ceb12b',
+    sha: 'b38b69f684e7750b35f370fe567e7d9431f5fbc8',
+    source: 'https://github.com/Alhadis/language-emacs-lisp/blob/b38b69f684e7750b35f370fe567e7d9431f5fbc8/grammars/emacs-lisp.cson',
+    sourceApi: 'https://api.github.com/repos/Alhadis/language-emacs-lisp/contents/grammars/emacs-lisp.cson?ref=b38b69f684e7750b35f370fe567e7d9431f5fbc8',
   },
   {
     byteSize: 1942,
